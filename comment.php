@@ -11,7 +11,7 @@
     // this is a comment 
     // echo "X equals $x by 10";
     $x += 10; // increament $x by 10
-    echo $x;
+    echo $x=10;
     /* This is is a section
     of multiline comments 
     that will not be 
