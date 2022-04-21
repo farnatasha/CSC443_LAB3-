@@ -7,6 +7,15 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?php 
+    // this is a comment 
+    // echo "X equals $x by 10";
+    $x += 10; // increament $x by 10
+    echo $x;
+    /* This is is a section
+    of multiline comments 
+    that will not be 
+    interpreted */
+    ?>
 </body>
 </html>
